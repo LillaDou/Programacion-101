@@ -1,4 +1,4 @@
-// Ciclo While - siempre va a verificar la condición antes de ejecutar
+//* Ciclo While - siempre va a verificar la condición antes de ejecutar
 // el resto
 // let gasTank:number = 0;
 
@@ -12,8 +12,8 @@
 
 
 
-// Ciclo Do While - siempre se garantiza que la parte del do se 
-// ejecutará al menos una vez
+//* Ciclo Do While - siempre se garantiza que la parte del do se 
+//* ejecutará al menos una vez
 export let gasTank:number = 0;
 
 do {

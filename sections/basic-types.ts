@@ -17,8 +17,8 @@ let isActive: boolean = true;
 let isRunning: boolean = false;
 let hasKids: boolean = true;
 
-isActive = !!isActive; //La exclamación hace que el valor cambie.
-//E.g. isActive es true. Al poner !isActive, se vuelve negativo
+isActive = !!isActive; //*La exclamación hace que el valor cambie.
+//*E.g. isActive es true. Al poner !isActive, se vuelve negativo
 
 console.log('isActive', isActive );
 console.log('isRunning', isRunning );
